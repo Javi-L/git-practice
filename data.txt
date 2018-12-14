@@ -1,0 +1,3 @@
+Nombre: Javi
+Edad: 41
+Color favorito: azul
